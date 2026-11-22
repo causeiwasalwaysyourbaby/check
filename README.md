@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://YOUR-DOWNLOAD-LINK"><img src="https://img.shields.io/badge/Downloads-237k%2B-brightgreen" alt="237k+ Downloads"></a>
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO"><img src="https://img.shields.io/badge/stars-60k%2B-yellow?logo=github&logoColor=white" alt="60k+ stars"></a>
+  <a href="https://YOUR-DOWNLOAD-LINK"><img src="https://img.shields.io/badge/Downloads-267k%2B-brightgreen" alt="267k+ Downloads"></a>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO"><img src="https://img.shields.io/badge/stars-62k%2B-yellow?logo=github&logoColor=white" alt="62k+ stars"></a>
   <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"></a>
   <a href="https://YOUR-DOCS-LINK"><img src="https://img.shields.io/badge/Documentation-read-informational" alt="Documentation"></a>
-  <a href="https://discord.gg/YOUR-INVITE"><img src="https://img.shields.io/badge/The_Reversed_Community-5.7k_online-5865F2?logo=discord&logoColor=white" alt="The Reversed Community, 5.7k online"></a>
+  <a href="https://discord.gg/YOUR-INVITE"><img src="https://img.shields.io/badge/The_Reversed_Community-5.8k_online-5865F2?logo=discord&logoColor=white" alt="The Reversed Community, 5.8k online"></a>
 </p>
